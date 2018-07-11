@@ -1,4 +1,4 @@
-***---
+---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of Helsinki"        # brief name of host site without address (e.g., "Euphoric State University")
